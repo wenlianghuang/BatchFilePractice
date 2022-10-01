@@ -11,6 +11,7 @@ with git.Repo.init(path='.') as repo:
     #Have to add the password at first?(Windows)
     #1.C:\Program Files\Git\cmd\start-ssh-agent.cmd
     
+    
     changedFile = [item.a_path for item in repo.index.diff(None)]
     if len(changedFile) == 0:
         print("The codes in git are all latest")
