@@ -4,9 +4,13 @@ with git.Repo.init(path='.') as repo:
     #    untracked_files = repo.untracked_files
     #
     
-    #Have to add the passwoard at first?
+    #Have to add the passwoard at first?(linux/Mac)
     #1.eval `ssh-agent -s`
     #2.ssh-add ~/.ssh/id_rsa
+    
+    #Have to add the password at first?(Windows)
+    #1.C:\Program Files\Git\cmd\start-ssh-agent.cmd
+    
     changedFile = [item.a_path for item in repo.index.diff(None)]
     if len(changedFile) == 0:
         print("The codes in git are all latest")
