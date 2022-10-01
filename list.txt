@@ -1,0 +1,29 @@
+ 磁碟區 D 中的磁碟沒有標籤。
+ 磁碟區序號:  10C6-7D24
+
+ D:\ 的目錄
+
+2022/05/24  下午 01:42    <DIR>          BatchFilePractice
+2022/01/08  下午 08:49    <DIR>          blog
+2021/12/30  下午 09:09    <DIR>          cuda-v8.2.2
+2021/12/30  下午 09:09    <DIR>          cuda-v8.3.0
+2022/05/12  下午 05:35    <DIR>          deepdream_ex
+2022/01/24  下午 09:10    <DIR>          Deep_Learning_Practice
+2022/05/23  上午 08:02    <DIR>          ercd_syncutility
+2022/05/24  下午 01:14    <DIR>          FortiClient
+2022/04/12  上午 10:33    <DIR>          go_practice
+2022/05/12  上午 10:44    <DIR>          laravel_tutorial
+2022/05/23  下午 09:51             1,386 list.txt
+2022/05/01  下午 10:39    <DIR>          MountainCar-dqn
+2015/12/13  下午 03:01    <DIR>          Office2016_CHT_64bit
+2022/04/18  下午 11:36    <DIR>          Patent
+2022/05/12  上午 10:43    <DIR>          PHP8
+2022/02/25  下午 06:21    <DIR>          python_practice
+2022/02/19  上午 08:43    <DIR>          python_scraw
+2022/04/13  下午 10:33    <DIR>          pywork
+2022/04/30  下午 05:01    <DIR>          reinforcement_q_learning
+2022/01/18  下午 09:34    <DIR>          tensorflowtest
+2021/12/31  上午 09:38    <DIR>          VSResult
+2022/04/17  下午 06:19    <DIR>          論文
+               1 個檔案           1,386 位元組
+              21 個目錄  971,358,838,784 位元組可用
